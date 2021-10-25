@@ -1,1 +1,1 @@
-# pet-2
+# c36_virtual_pet2
